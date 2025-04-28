@@ -26,7 +26,7 @@
 ## Personalize mensagem de erro:
   - Sempre que puder, configure mensagens de erro personalizadas para deixar a conversa mais amigável;
   - Configure limite de tentativas e redirecionamento em caso de erro;
-  - Personalize o Fallback para oferecer botão de ajuda, redirecionar a algum nó da conversa, ou falar com um atendente.
+  - Personalize o Fallback para oferecer botão de ajuda, redirecionar a algum nó da conversa, falar com um atendente ou usar resposta generativa.
 
 ## Aumente ou diminua a qualidade da converesa com GenAI:
   - Adicione um nó de resposta com "Gerar conteúdo usando GenAI";
